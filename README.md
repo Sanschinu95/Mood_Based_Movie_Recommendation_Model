@@ -133,9 +133,7 @@ recommender.add_movie("happy", new_movie)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-Created by [Your Name] - feel free to contact me!
 
 ---
 
